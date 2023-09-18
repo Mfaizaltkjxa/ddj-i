@@ -1,0 +1,17 @@
+.header{
+    background-color: black;
+    padding: 10px 0;
+
+}
+ h1{
+    color: floralwhite;
+    text-align: center;
+ }
+ body{
+    background-color: rgb(229, 222, 222);
+ }
+ .content{
+    max-width: 800px;
+    background-color: white;
+    border-radius: 5px;
+ }
